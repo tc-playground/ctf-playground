@@ -84,7 +84,7 @@
 
 ---
 
-## Task 3 - Manual Page Research
+## Task 4 - Manual Page Research
 
 -   **Manual Pages** - The `man` command can be used to find more information on a Linux `command` and its `options`.
 
