@@ -4,9 +4,14 @@
         "NTLM",
         "Netcat",
         "Oxrick",
+        "PDFs",
         "Steganography",
+        "chmod",
         "fdisk",
+        "intitle",
+        "inurl",
         "searchsploit",
+        "sshd",
         "steghide"
     ]
 }

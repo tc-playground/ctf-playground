@@ -1,5 +1,7 @@
 # Research Questions
 
+* [Room - Introduction to Research](https://tryhackme.com/room/introtoresearch)
+
 ## Hide data in an image?
 
 1. Steganography - [Oxrick](https://0xrick.github.io/lists/stego/)
