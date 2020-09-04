@@ -12,6 +12,8 @@
         "inurl",
         "searchsploit",
         "sshd",
-        "steghide"
+        "steghide",
+        "tmux",
+        "uname"
     ]
 }
