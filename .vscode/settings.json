@@ -15,12 +15,15 @@
         "inurl",
         "mkfifo",
         "msfvenom",
+        "mult",
         "openssl",
         "passwd",
         "searchsploit",
         "sshd",
         "steghide",
         "tmux",
-        "uname"
-    ]
+        "uname",
+        "widthless"
+    ],
+    "python.formatting.provider": "black"
 }
